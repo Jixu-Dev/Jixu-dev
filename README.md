@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Jixu
 
-<!--
-**Jixu-Dev/Jixu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc IT student exploring software development with a focus on web
+applications and backend concepts. I enjoy learning new technologies and
+understanding how systems work internally.
 
-Here are some ideas to get you started:
+💻 Skills:
+- HTML, CSS, JavaScript
+- Python
+- Java
+- React (intermediate level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning & Interests:
+- WordPress core and custom development
+- Backend architecture
+- Writing clean and maintainable code
+
+🎯 Goal:
+To continuously improve as a software engineer and contribute to meaningful projects.
