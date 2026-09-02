@@ -7,16 +7,14 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
+<!-- PROFILE VIEWS + FOLLOWERS + REPOS -->
 <img src="https://komarev.com/ghpvc/?username=Jixu-Dev&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/Jixu-Dev?tab=followers">
 <img src="https://img.shields.io/github/followers/Jixu-Dev?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/Jixu-Dev?tab=repositories">
 <img src="https://img.shields.io/badge/Public_Repos-12-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-</a>
 
 </div>
 
@@ -74,25 +72,20 @@ fun_facts:
 
 <div align="center">
 
-<!-- GitHub Stats using github-readme-stats with PAT-backed instance -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jixu-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=EC4899&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jixu-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=EC4899&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jixu-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jixu-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Streak Stats -->
+<!-- Streak Stats (RELIABLE - uses demolab.com) -->
 <img src="https://streak-stats.demolab.com?user=Jixu-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=EC4899&currStreakLabel=00D4FF&sideLabels=8B5CF6&dates=555555" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Language & Stats badges (shields.io - always reliable) -->
+<img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-Proficient-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/CSS-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/HTML-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 
 </div>
 
@@ -103,26 +96,17 @@ fun_facts:
 
 <div align="center">
 
-| 🎬 | 💼 | ☕ |
-|:---:|:---:|:---:|
-| **[Jixu Entertainments](https://github.com/Jixu-Dev/jixu-entertainments)** | **[Jixu Portfolio](https://github.com/Jixu-Dev/jixu-portfolio)** | **[Ember & Oak Café](https://github.com/Jixu-Dev/ember-and-oak-cafe)** |
-| Next-Gen Streaming Index | Modern Developer Portfolio | Cinematic Café Website |
-| `Next.js` `React 19` `TypeScript` | `React` `Framer Motion` `i18n` | `React` `GSAP` `Node.js` |
-| [![Stars](https://img.shields.io/github/stars/Jixu-Dev/jixu-entertainments?style=flat-square&color=8B5CF6)](https://github.com/Jixu-Dev/jixu-entertainments) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/jixu-portfolio?style=flat-square&color=00D4FF)](https://github.com/Jixu-Dev/jixu-portfolio) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/ember-and-oak-cafe?style=flat-square&color=F59E0B)](https://github.com/Jixu-Dev/ember-and-oak-cafe) |
-
-| 🧠 | 📊 | 🧭 |
-|:---:|:---:|:---:|
-| **[Emotion AI](https://github.com/Jixu-Dev/emotion-ai-product)** | **[JixuAnalyzer](https://github.com/Jixu-Dev/JixuAnalyzer)** | **[Pathfinding Visualizer](https://github.com/Jixu-Dev/Pathfinding-Algorithm-Visualizer)** |
-| AI Sentiment Analysis Platform | GitHub Profile Analytics | Dijkstra's Algorithm Simulator |
-| `Python` `TypeScript` `ML/NLP` | `Vite` `Tailwind` `GitHub API` | `JavaScript` `CSS Animations` |
-| [![Stars](https://img.shields.io/github/stars/Jixu-Dev/emotion-ai-product?style=flat-square&color=8B5CF6)](https://github.com/Jixu-Dev/emotion-ai-product) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/JixuAnalyzer?style=flat-square&color=3B82F6)](https://github.com/Jixu-Dev/JixuAnalyzer) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/Pathfinding-Algorithm-Visualizer?style=flat-square&color=10B981)](https://github.com/Jixu-Dev/Pathfinding-Algorithm-Visualizer) |
-
-| 📄 | 💬 | 🎨 |
-|:---:|:---:|:---:|
-| **[ResuScan](https://github.com/Jixu-Dev/ResuScan)** | **[Secret Chat](https://github.com/Jixu-Dev/Secret-chat-web)** | **[Jixu Design](https://github.com/Jixu-Dev/Jixu-design)** |
-| AI-Ready Resume Scanner | Real-Time Chat App | Design System Playground |
-| `Vite` `Tailwind` `AI-Ready` | `Firebase` `Tailwind v4` | `React 19` `Vite 6` |
-| [![Stars](https://img.shields.io/github/stars/Jixu-Dev/ResuScan?style=flat-square&color=6366F1)](https://github.com/Jixu-Dev/ResuScan) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/Secret-chat-web?style=flat-square&color=EAB308)](https://github.com/Jixu-Dev/Secret-chat-web) | [![Stars](https://img.shields.io/github/stars/Jixu-Dev/Jixu-design?style=flat-square&color=EC4899)](https://github.com/Jixu-Dev/Jixu-design) |
+| | Project | Description | Tech Stack | Links |
+|:---:|---|---|---|:---:|
+| 🎬 | **Jixu Entertainments** | Next-Gen Verified Streaming Index for Movies, Anime & Live TV | `Next.js 15` `React 19` `TypeScript` `Tailwind` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/jixu-entertainments) |
+| 💼 | **Jixu Portfolio** | Modern & Minimal Developer Portfolio with smooth animations | `React` `Vite` `Framer Motion` `i18n` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/jixu-portfolio) |
+| ☕ | **Ember & Oak Café** | Cinematic scroll-driven artisanal café website | `React` `GSAP` `Tailwind` `Node.js` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/ember-and-oak-cafe) |
+| 🧠 | **Emotion AI** | AI-Powered Sentiment Analysis Platform | `Python` `TypeScript` `ML/NLP` `Vite` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/emotion-ai-product) |
+| 📊 | **JixuAnalyzer** | GitHub Profile Analytics & Visualization Dashboard | `JavaScript` `Vite` `Tailwind` `GitHub API` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/JixuAnalyzer) |
+| 🧭 | **Pathfinding Visualizer** | Interactive Dijkstra's Algorithm Simulator | `JavaScript` `CSS Animations` `HTML` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/Pathfinding-Algorithm-Visualizer) |
+| 📄 | **ResuScan** | AI-Ready Resume Scanner & ATS Analyzer | `Vite` `Tailwind` `JavaScript` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/ResuScan) |
+| 💬 | **Secret Chat** | Real-Time Privacy-First Chat Application | `Firebase` `Vite` `Tailwind v4` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/Secret-chat-web) |
+| 🎨 | **Jixu Design** | Interactive Design System & Component Playground | `React 19` `Vite 6` `CSS3` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jixu-Dev/Jixu-design) |
 
 </div>
 
@@ -142,25 +126,18 @@ fun_facts:
 <!-- DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
-## 🏅 Achievements & Trophies
+## 🏅 Achievements
 
 <div align="center">
 
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jixu-Dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-
-<br/><br/>
-
-| Badge | Achievement | How to Earn |
-|:---:|---|---|
-| 🦈 | **Pull Shark** | Get pull requests merged ✅ |
-| 🤪 | **YOLO** | Merge a PR without code review ✅ |
-| ⚡ | **Quickdraw** | Close an issue/PR within 5 min of opening |
-| 🌌 | **Galaxy Brain** | Get a discussion answer marked as accepted |
-| 👫 | **Pair Extraordinaire** | Co-author a merged commit |
-| ⭐ | **Starstruck** | Have a repo reach 16+ stars |
-| ❤️ | **Public Sponsor** | Sponsor an open source dev/project |
-| 🧊 | **Arctic Code Vault** | Contributed to 2020 GitHub Archive |
+| Badge | Achievement | Status |
+|:---:|---|:---:|
+| 🦈 | **Pull Shark** — Merged pull requests | ✅ Earned |
+| 🤪 | **YOLO** — Merged a PR without code review | ✅ Earned |
+| ⚡ | **Quickdraw** — Closed issue/PR within 5 min | ✅ Earned |
+| 🌌 | **Galaxy Brain** — Discussion answer accepted | 🔜 Next |
+| 👫 | **Pair Extraordinaire** — Co-authored commit | 🔜 Next |
+| ⭐ | **Starstruck** — Repo reaches 16+ stars | 🔜 Next |
 
 </div>
 
